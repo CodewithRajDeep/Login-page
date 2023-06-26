@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
     <title>Animated Login Page</title>
      <body>
         <section>
@@ -11,19 +12,21 @@
                 <h1>Login</h1>
             </form>
             <div class="input-box">
+         <ion-icon name="mail-outline"></ion-icon>
             <input type="email" required> 
             <label for=""> Email</label>
            </div>
 
            <div class="input-box">
+            <ion-icon name="lock-closed-outline"></ion-icon>
            <input type="password" required> 
            <label for=""> Password</label>
            </div>
 
-           <div class="input-box">
+           <div class="forget">
             <input type="checkbox" required> 
-            <label for=""> Remeber Me</label>
-            <a href="#"> Forget Password </a>
+            <label for=""> Remeber Me  <a href="#"> Forget Password </a></label>
+           
             </div>
                  
             <button>Log in</button>
@@ -34,6 +37,12 @@
            </div>
            </div>
         </section>
+        <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js">
+
+        </script>
+        <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js">
+
+        </script>
      </body>
 </head>
 </html>
