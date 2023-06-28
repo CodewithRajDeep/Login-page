@@ -40,11 +40,9 @@ In order to do this project, perform the following:
 1. open html and css file
 
 2. For adding any box in section , directly use this: 
-    <div class="class-name">
-    <div class="form-value">
-     <form action="">
-     <h1>Header-name</h1>
-
+    <div class =" name ">
+    <div class="form-value" ></div>
+   
 3. To make changes or any addition in button section, directly use this: 
 
 <button>button-name</button>
