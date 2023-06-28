@@ -61,7 +61,6 @@ https://ionic.io/ionicons and search for icon and copy web component code.
 5. Change as per your need and you are ready to go.
 -------------------------------------------------
 
-![image](https://github.com/CodewithRajDeep/Login-page/assets/121842502/6a05de36-a9a8-4748-985a-5387d2f50082)
 
 
 ![image](https://github.com/CodewithRajDeep/Login-page/assets/121842502/7fae90f0-f1ba-40ae-824d-fef67c063a47)
